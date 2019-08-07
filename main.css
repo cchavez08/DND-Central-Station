@@ -1,0 +1,47 @@
+#DragonGif { 
+  /* The image used */
+  background-image: url("Pictures/mEFry1.gif");
+
+  /* Set a specific height */
+  height: 500px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#Title {
+  color: rgb(179, 174, 174);
+  font-size: 60px;
+  text-align: center;
+}
+
+#Intro {
+  color: rgb(179, 174, 174);
+}
+
+body {
+  background-color:  darkred;
+}
+
+.list-view {
+display: flex inline-block;
+columns: 3;
+width: 100%;
+}
+
+.detail-view {
+  color: rgb(69, 225, 236);
+}
+
+.card{
+height: 600px;
+margin-bottom: 100px;
+}
+
+img{
+height: 300px;
+width: 100%
+}
