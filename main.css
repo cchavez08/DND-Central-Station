@@ -33,7 +33,7 @@ width: 100%;
 }
 
 .detail-view {
-  color: rgb(69, 225, 236);
+  color: rgb(109, 109, 109);
 }
 
 .card{
@@ -43,5 +43,20 @@ margin-bottom: 100px;
 
 img{
 height: 300px;
-width: 100%
+width: 100%;
+}
+
+.card-body {
+  color: rgba(216, 199, 199, 0.849);
+}
+
+.pictures img {
+  width: 285px;
+  height: 300px;
+}
+
+
+
+#dv {
+  margin-left: 400px;
 }
