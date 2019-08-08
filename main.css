@@ -18,6 +18,12 @@
   text-align: center;
 }
 
+#SubTitle {
+  color: rgb(179, 174, 174);
+  font-size: 30px;
+  text-align: center;
+}
+
 #Intro {
   color: rgb(179, 174, 174);
 }
@@ -54,8 +60,6 @@ width: 100%;
   width: 285px;
   height: 300px;
 }
-
-
 
 #dv {
   margin-left: 400px;
